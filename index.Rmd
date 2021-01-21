@@ -13,6 +13,10 @@ logo        : ntu-shield.png
 biglogo     : NTU_open-graph.png
 assets      : {assets: ../../assets}
 license     : by-nc-sa
+github:
+  user: draxelbarlow
+  repo: BIOL40102_statistics1
+  branch: "gh-pages"
 ---
 
 ```{r setup, include = FALSE}
