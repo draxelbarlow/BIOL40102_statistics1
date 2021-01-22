@@ -133,7 +133,7 @@ include_graphics("./assets/img/Rstudio.png")
 
 --- .segue .dark 
 
-## Variables, observations, data and sampling
+## Variables
 
 --- .class #id 
 

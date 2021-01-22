@@ -98,7 +98,7 @@ strong {
 
 --- .segue .dark 
 
-## Variables, observations, data and sampling
+## Variables
 
 --- .class #id 
 
